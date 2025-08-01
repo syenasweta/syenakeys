@@ -6,7 +6,7 @@ Syzygia is mechanical keyboard. No keycap stabilizer required.
 
 ## Keyboard Layout
 
-![Syzygia](syzygia/syzygia.svg)
+![Syzygia](keyboard-layout/syzygia.svg)
 
 ### Keyboard Feature
 
