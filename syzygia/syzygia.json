@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Syzygia",
+    "author": "Nashrullah Ali Fauzi",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-11xx",
+    "plate": true
+  },
+  [
+    {
+      "c": "#2A3233",
+      "t": "#EFF5DE",
+      "p": "DSA",
+      "a": 2
+    },
+    "Esc\n\n\n\nR4\n1×1",
+    {
+      "a": 0
+    },
+    "!\n1\nF1\n\nR4\n1×1",
+    "@\n2\nF2\n\nR4\n1×1",
+    "#\n4\nF3\n\nR4\n1×1",
+    "$\n4\nF4\n\nR4\n1×1",
+    "%\n5\nF5\n\nR4\n1×1",
+    "^\n6\nF6\n\nR4\n1×1",
+    "&\n7\nF7\n\nR4\n1×1",
+    "*\n8\nF8\n\nR4\n1×1",
+    "(\n9\nF9\n\nR4\n1×1",
+    ")\n0\nF10\n\nR4\n1×1",
+    "_\n-\nF11\n\nR4\n1×1",
+    "+\n=\nF12\n\nR4\n1×1",
+    "|\n\\\nIns\n\nR4\n1×1",
+    "~\n`\nDel\n\nR4\n1×1"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\n\nCaps\n\nR3\n1×1.5\nTab",
+    {
+      "a": 3
+    },
+    "Q\n\n\n\nR3\n1×1",
+    "W\n\n\n\nR3\n1×1",
+    "E\n\n\n\nR3\n1×1",
+    "R\n\n\n\nR3\n1×1",
+    "T\n\n\n\nR3\n1×1",
+    "Y\n\n\n\nR3\n1×1",
+    "U\n\n\n\nR3\n1×1",
+    "I\n\n\n\nR3\n1×1",
+    "O\n\n\n\nR3\n1×1",
+    "P\n\n\n\nR3\n1×1",
+    {
+      "a": 0
+    },
+    "{\n[\n\n\nR3\n1×1",
+    "}\n]\n\n\nR3\n1×1",
+    {
+      "w": 1.5
+    },
+    "\n\n⌫\nClear\nR3\n1×1.5\nDelete"
+  ],
+  [
+    {
+      "a": 2,
+      "w": 1.75
+    },
+    "Control\n\n\n\nR2\n1×1.75",
+    {
+      "a": 3
+    },
+    "A\n\n\n\nR2\n1×1",
+    "S\n\n\n\nR2\n1×1",
+    "D\n\n\n\nR2\n1×1",
+    "F\n\n\n\nR2\n1×1",
+    "G\n\n\n\nR2\n1×1",
+    {
+      "a": 0
+    },
+    "\n\n\n←\nR2\n1×1\n\n\n\nH",
+    "\n\n\n↓\nR2\n1×1\n\n\n\nJ",
+    "\n\n\n↑\nR2\n1×1\n\n\n\nK",
+    "\n\n\n→\nR2\n1×1\n\n\n\nL",
+    ":\n;\n\n\nR2\n1×1",
+    "\"\n'\n\n\nR2\n1×1",
+    {
+      "a": 3
+    },
+    "Ctrl\n\n\n\nR2\n1×1",
+    {
+      "a": 0,
+      "w": 1.25
+    },
+    "\n\nEnter\n\nR2\n1×1.25\nReturn"
+  ],
+  [
+    {
+      "a": 2
+    },
+    "Fn\n\n\n\nR1\n1×1",
+    {
+      "w": 1.25
+    },
+    "Shift\n\n\n\nR1\n1×1.25",
+    {
+      "a": 3
+    },
+    "Z\n\n\n\nR1\n1×1",
+    "X\n\n\n\nR1\n1×1",
+    "C\n\n\n\nR1\n1×1",
+    "V\n\n\n\nR1\n1×1",
+    "B\n\n\n\nR1\n1×1",
+    "N\n\n\n\nR1\n1×1",
+    "M\n\n\n\nR1\n1×1",
+    {
+      "a": 0
+    },
+    "<\n,\n\n\nR1\n1×1",
+    ">\n.\n\n\nR1\n1×1",
+    "?\n/\n\n\nR1\n1×1",
+    {
+      "a": 2,
+      "w": 1.75
+    },
+    "Shift\n\n\n\nR1\n1.75",
+    "Fn\n\n\n\nR1\n1×1"
+  ],
+  [
+    {
+      "x": 1.5
+    },
+    "Alt\n\n\n\nR1\n1×1",
+    {
+      "a": 3,
+      "w": 1.5
+    },
+    "⌘\n\n\n\nR1\n1×1.5",
+    {
+      "w": 1.75
+    },
+    "\n\n\n\nR1\n1×1.75",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nR1\n1×1.25",
+    "\n\n\n\nR1\n1×1",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nR1\n1×1.25",
+    {
+      "w": 1.75
+    },
+    "\n\n\n\nR1\n1×1.75",
+    {
+      "w": 1.5
+    },
+    "⌘\n\n\n\nR1\n1×1.5",
+    {
+      "a": 2
+    },
+    "Alt\n\n\n\nR1\n1×1"
+  ]
+]

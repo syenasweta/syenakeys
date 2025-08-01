@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "443cb77c-b5d5-4231-ab34-25930839aa5b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 165.1 25.4)
+		(size 100.33 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f78c417a-b39b-4fc0-886f-a41cee31cb8d")
+		(property "Sheetname" "Matrix"
+			(at 165.1 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "/home/nash/git/syenasweta.github/SYE-Wijha/sye-wijha-keyboard-pcb/generated_schematic.kicad_sch"
+			(at 165.1 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sye-wijha-keyboard-pcb"
+				(path "/443cb77c-b5d5-4231-ab34-25930839aa5b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
