@@ -8,6 +8,8 @@ Syzygia is mechanical keyboard. No keycap stabilizer required.
 
 ![Syzygia](keyboard-layout/syzygia.svg)
 
+![Syzygia](keyboard-layout/syzygia.jpg)
+
 ### Keyboard Feature
 
 - Display
@@ -23,8 +25,13 @@ Syzygia is mechanical keyboard. No keycap stabilizer required.
 
 ### Keyboard Case
 
-- Aluminum Plate
 - 3D print case and/or sandwich case
+
+#### Plate
+
+- Aluminum Plate
+
+![Syzygia Plate](keyboard-layout/1bd3649e9f0680fa6e2b798eec9fb7d59fba7290_switch.svg)
 
 ### Keyboard Keycaps
 
