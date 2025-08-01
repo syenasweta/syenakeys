@@ -4,6 +4,10 @@ Syzygia is mechanical keyboard. No keycap stabilizer required.
 
 ## Hardware
 
+## Keyboard Layout
+
+![Syzygia](syzygia/syzygia.svg)
+
 ### Keyboard Feature
 
 - Display
@@ -40,3 +44,4 @@ Syzygia is mechanical keyboard. No keycap stabilizer required.
 - KMK
 - ZMK
 - Others
+
